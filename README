@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=750
+
+(For those who are interested: "aiSee" is a trade mark which is expected to be pronounced "I see".)
+
+I find this scheme quite pleasant -- even though any red, including dark red, is always said to be a bad choice for a background.
+
+Anyway, I'm not selling a pig in a poke here: http://www.aisee.com/aiseered.png
+
+I've written the scheme especially for working with files in GDL/VCG format (hence the naming), and it goes well together with vimscript #706. It also works quite fine for C/C++ and I've heard of people using it for editing Ruby. However, I wouldn't recommend using it for editing HTML if you do care for your eyes.
+
+aiseered was tested with gVim 6.2 under Windows 2000 and with gVim 6.3 under Ubuntu Linux.
+
+Your feedback is appreciated.
